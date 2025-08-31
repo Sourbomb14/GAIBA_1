@@ -22,10 +22,10 @@ st.set_page_config(
 
 # Google Drive file IDs (replace with your actual file IDs)
 MODEL_FILES = {
-    'best_roi_model.pkl': 'your_roi_model_drive_id',
-    'kmeans_model.pkl': 'your_kmeans_model_drive_id', 
-    'minmax_scaler.pkl': 'your_scaler_drive_id',
-    'ordinal_encoder.pkl': 'your_encoder_drive_id'
+    'best_roi_model.pkl': '1dJcbTiffS4FsAG5i-5IjLdMSmOSL6jIf',
+    'kmeans_model.pkl': '1tV7m4b3EQ5xdEPgYAzGrYzYeu4ApdKIR', 
+    'minmax_scaler.pkl': '1OX5eEQmbTkSf3QtAp15jpQOpF7PRaHSm',
+    'ordinal_encoder.pkl': '1jFutweZwJqm-0JzNQJDgzTpZGTzB5Yzn'
 }
 
 @st.cache_resource
